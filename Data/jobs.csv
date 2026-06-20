@@ -1,0 +1,11 @@
+job_id,company,job_title,skill_threshold,posted_date,status
+1,Google,Data Analyst,80,01-06-2026,Active
+2,Amazon,BI Analyst,75,01-06-2026,Active
+3,Microsoft,Data Engineer,85,02-06-2026,Active
+4,Uber,Product Analyst,70,02-06-2026,Closed
+5,Meta,Data Scientist,90,03-06-2026,Active
+6,Netflix,BI Developer,80,03-06-2026,Active
+7,Google,ML Engineer,88,04-06-2026,Active
+8,Amazon,Analytics Manager,82,04-06-2026,Closed
+9,Uber,Data Analyst,72,05-06-2026,Active
+10,Meta,BI Analyst,85,05-06-2026,Active
